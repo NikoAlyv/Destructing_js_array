@@ -56,3 +56,56 @@
 // console.log(!(firstNumber<0));
 
 
+
+//TODO task2:
+
+//! Part 1:
+ 
+const scores = [20,90,37,49,50]
+const [firstScore,secondScore] = scores
+
+// console.log(firstScore,secondScore);
+
+// const student ={
+//     name:'Xudu',
+//     age:21,
+//     isEnrolled:true
+
+// }
+
+// const {name,age} =student
+// console.log(name,age)
+
+
+//! Part 2
+
+// console.log(typeof firstScore)
+// console.log(typeof secondScore)
+// console.log(typeof name)
+// console.log(typeof age)
+
+// console.log(scores.length)
+
+//! Part 3
+
+//?
+// const sum = firstScore+secondScore
+// const difference = firstScore-secondScore
+
+// console.log(sum)
+// console.log(difference)
+
+
+//?
+// console.log(firstScore>secondScore);
+// console.log(firstScore<secondScore);
+
+//?
+// console.log(student.age>=18 && firstScore>20 || secondScore>17)
+
+//?
+// console.log(!student.isEnrolled)
+
+
+
+
